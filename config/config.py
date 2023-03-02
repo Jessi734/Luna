@@ -20,8 +20,8 @@ from KillerXMusic.nocmds.devep import *
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", "27139926"))
-API_HASH = getenv("API_HASH", "a41beaea-d468-4d8c-9727-cc33e94abc34")
+API_ID = int(getenv("API_ID", "15289935"))
+API_HASH = getenv("API_HASH", "45be60e952e261db92f84ea4f0130de2")
 
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN", "6152111087:AAGLch2z0tRt00Za1kZ9jUvBpMMJq2Tqfto")
