@@ -62,11 +62,11 @@ GIT_TOKEN = getenv("GIT_TOKEN", "")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", idk("https://t.me/botsuppot").decode("utf-8"),
+    "SUPPORT_CHANNEL", ("aHR0cHM6Ly90Lm1lL0tpbGxlclhTdXBwb3J0")
 )
 
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", idk("https://t.me/botsuppot").decode("utf-8"),
+    "SUPPORT_GROUP", ("aHR0cHM6Ly90Lm1lL0tpbGxlclhTdXBwb3J0")
 )
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
